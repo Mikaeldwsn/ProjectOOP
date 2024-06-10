@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="Beverages.cs" />
+=======
+    <Compile Include="Class2.cs" />
+>>>>>>> 79eb5f76475fae4688ebeab000ec2cee89a7f44c
     <Compile Include="Ingredients.cs" />
     <Compile Include="Merchandise.cs" />
     <Compile Include="Customer.cs" />
