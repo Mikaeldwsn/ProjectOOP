@@ -15,10 +15,6 @@ namespace ProjectOOP
         public Form1()
         {
             InitializeComponent();
-            while (true)
-            {
-
-            }
         }
 
         private void Form1_Load(object sender, EventArgs e)

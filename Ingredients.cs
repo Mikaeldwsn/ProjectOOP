@@ -8,5 +8,6 @@ namespace ProjectOOP
     public class Ingredients
     {
         private string name;
+        private int id;
     }
 }
