@@ -41,6 +41,6 @@ namespace ProjectOOP
            
         }
 
-        public abstract void Display();
+        public abstract string Display();
     }
 }
