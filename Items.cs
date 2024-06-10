@@ -36,7 +36,7 @@ namespace ProjectOOP
         public string DipslayItems()
         {
             string data = "";
-            data = "Nama item: " + this.Name + "\nHarga:"+this.Price+"\n"+;
+            data = "Nama item: " + this.Name + "\nHarga:"+this.Price+"\n";
             return data;
            
         }
