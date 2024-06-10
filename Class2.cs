@@ -5,7 +5,8 @@ using System.Text;
 
 namespace ProjectOOP
 {
-    public class Class2
+    public class Merchandise
     {
+
     }
 }

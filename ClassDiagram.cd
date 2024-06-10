@@ -7,8 +7,8 @@
       <FileName>Items.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ProjectOOP.Class2">
-    <Position X="6" Y="1.5" Width="1.5" />
+  <Class Name="ProjectOOP.Merchandise">
+    <Position X="4" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Class2.cs</FileName>
