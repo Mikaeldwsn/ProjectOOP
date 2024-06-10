@@ -15,8 +15,24 @@
       <FileName>Beverages.cs</FileName>
 =======
   <Class Name="ProjectOOP.Merchandise">
-    <Position X="4" Y="1" Width="1.5" />
+    <Position X="3.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAgAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Merchandise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectOOP.Customer">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAQAAQQAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectOOP.Ingredients">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ingredients.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Class2.cs</FileName>
 >>>>>>> 79eb5f76475fae4688ebeab000ec2cee89a7f44c
