@@ -11,6 +11,7 @@ namespace ProjectOOP
         private string name;
         private Image picture;
         private string type;
+        private Items item;
 
         public Customer(string name, Image picture, string type)
         {
@@ -38,8 +39,9 @@ namespace ProjectOOP
         {
             if (this.Name == "male")
             {
-
+                return "helo i ";
             }
+            return this.Name;
         }
     }
 }

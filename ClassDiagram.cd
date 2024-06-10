@@ -10,15 +10,8 @@
   <Class Name="ProjectOOP.Customer">
     <Position X="5.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAgAAAAIAAAAAAAAAAAQQAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <HashCode>AAAAgAAAAIAAAAAAAAQAAQQAAAAFAAAAAQAAAAAAAAA=</HashCode>
       <FileName>Customer.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="ProjectOOP.Item">
-    <Position X="7.5" Y="2" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Item.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
