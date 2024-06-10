@@ -15,10 +15,17 @@
     </TypeIdentifier>
   </Class>
   <Class Name="ProjectOOP.Customer">
-    <Position X="3.75" Y="1.5" Width="1.5" />
+    <Position X="6" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAAAAIAAAAAAAAQAAQQAAAAFAAAAAQAAAAAAAAA=</HashCode>
       <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectOOP.Ingredients">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ingredients.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
