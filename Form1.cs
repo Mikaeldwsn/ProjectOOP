@@ -15,6 +15,10 @@ namespace ProjectOOP
         public Form1()
         {
             InitializeComponent();
+            while (true)
+            {
+
+            }
         }
     }
 }
