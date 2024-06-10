@@ -12,6 +12,13 @@ namespace ProjectOOP
         private Image picture;
         private string type;
 
+        public Customer(string name, Image picture, string type)
+        {
+            Name = name;
+            Picture = picture;
+            Type = type;
+        }
+
         public string Name { get => name; set => name = value; }
         public Image Picture { get => picture; set => picture = value; }
         public string Type 
@@ -19,8 +26,20 @@ namespace ProjectOOP
             get => type;
             set 
             { 
+                if (value == null)
+                {
+
+                }
                 type = value; 
             } 
+        }
+
+        public string Display()
+        {
+            if (this.Name == "male")
+            {
+
+            }
         }
     }
 }
